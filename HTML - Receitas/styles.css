@@ -1,0 +1,80 @@
+/*-----------| ESTILO GERAL |-------------------------*/
+body h1{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+
+
+/*-----------| ESTILO CSS DO index.html |-------------*/
+#index{
+
+    background: #277500;
+    background: linear-gradient(360deg, rgba(39, 117, 0, 0.27) 0%, rgba(255, 255, 255, 0) 100%);
+    background-image: url(./imagens/beautiful-delicious-dessert-copy-space-notepad.jpg);
+    background-size: 100%;
+}
+
+#index p {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#index h2{
+
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+
+/*-----------| ESTILO CSS DO chocolatecake.html |-------------*/
+#chocolatecake{
+
+    background: #521d00;
+    background: linear-gradient(360deg, rgba(82, 29, 0, 0.66) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+#chocolatecake p{
+    align-content: center;
+}
+
+#chocolatecake h1{
+
+    color: brown;
+}
+
+#chocolatecake img{
+
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5%;
+}
+
+/*-----------| ESTILO CSS DO chocolatecake.html |-------------*/
+
+#escondidinhocarne{
+    background: #915c00;
+    background: linear-gradient(360deg, rgba(145, 92, 0, 0.66) 0%, rgba(255, 255, 255, 1) 100%);
+}
+
+#escondidinhocarne img{
+
+    width: auto;
+    height: 200px;
+
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5%;
+    
+}
+
+#escondidinhocarne h1{
+
+    color: orangered;
+}

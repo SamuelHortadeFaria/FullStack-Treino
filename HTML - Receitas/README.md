@@ -20,3 +20,14 @@ Revisar e aplicar conceitos básicos de HTML, como:
 - Listas ordenadas e não ordenadas
 - Inserção de imagens
 - Utilização de links relativos entre páginas
+
+## ADIÇÃO DE CSS
+
+- Criado dia 11/05
+- Seguindo as aulas do **TOP**, foi criado o arquivo (`styles.css`) para adicionar estilo aos arquivos HTML.
+- Foi aplicado os seguintes conceitos:
+    - ID e Classes
+    - Fontes e cores de textos
+    - Cores de backgrounds
+    - Bordas para imagens
+    - Aplicação correta do efeito "Cascade" do CSS.
